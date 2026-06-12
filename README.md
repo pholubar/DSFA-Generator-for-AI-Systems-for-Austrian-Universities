@@ -140,6 +140,8 @@ Holubar, P. (2026).
 
 Austrian University DPIA Generator for AI Systems.
 
+DOI:
+
 GitHub Repository.
 
 ORCID: 0000-0003-1613-6466
