@@ -13,7 +13,7 @@ GitHub Repository.
 MIT License.
 BOKU University
 ORCID: 0000-0003-1613-6466
-DOI:
+DOI:https://doi.org/10.5281/zenodo.20673357
 Companion to: AI Assessment Framework v0.3.
 
 Gerne. Für dein Projekt würde ich die README bewusst zwischen Open-Science-Projekt, Governance-Framework und GitHub-Repository positionieren.
@@ -140,7 +140,7 @@ Holubar, P. (2026).
 
 Austrian University DPIA Generator for AI Systems.
 
-DOI:
+DOI:https://doi.org/10.5281/zenodo.20673357
 
 GitHub Repository.
 
