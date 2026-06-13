@@ -1,22 +1,21 @@
 # DSFA-Generator-for-AI-Systems-for-Austrian-Universities
 Structured DPIA generation and review framework for AI systems used in Austrian universities, aligned with GDPR, the EU AI Act, and Austrian labour law.
-Citation
 
 Current Version: v0.3
 Status: Public Draft
 License: MIT
 
+Citation
 If you use this project in research, governance frameworks, institutional AI assessments, or derivative works, please cite:
 
 Holubar, P. (2026). DSFA Generator for AI Systems for Austrian Universities (Version 0.3). 
-GitHub Repository. 
+GitHub Repository https://github.com/pholubar/DSFA-Generator-for-AI-Systems-for-Austrian-Universities 
 MIT License.
 BOKU University
 ORCID: 0000-0003-1613-6466
 DOI:https://doi.org/10.5281/zenodo.20673357
 Companion to: AI Assessment Framework v0.3.
 
-Gerne. Für dein Projekt würde ich die README bewusst zwischen Open-Science-Projekt, Governance-Framework und GitHub-Repository positionieren.
 
 Austrian University DPIA Generator for AI Systems
 
@@ -142,7 +141,7 @@ Austrian University DPIA Generator for AI Systems.
 
 DOI:https://doi.org/10.5281/zenodo.20673357
 
-GitHub Repository.
+GitHub Repository https://github.com/pholubar/DSFA-Generator-for-AI-Systems-for-Austrian-Universities
 
 ORCID: 0000-0003-1613-6466
 
